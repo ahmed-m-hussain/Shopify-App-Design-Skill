@@ -1,0 +1,13 @@
+# Downloaded Shopify documentation (built by scripts/update_mirror.py) — not redistributed
+references/*
+!references/review-checklist.md
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

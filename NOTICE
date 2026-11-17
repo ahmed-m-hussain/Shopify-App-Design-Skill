@@ -1,0 +1,13 @@
+Shopify App Design skill — third-party content notice
+
+This repository does not contain Shopify documentation. Running
+scripts/update_mirror.py downloads pages from https://shopify.dev into the
+local references/ folder for personal use by your coding agent.
+
+That content, including text and linked images, is owned by Shopify Inc. and
+is subject to Shopify's terms of service. It is not covered by this
+repository's MIT License. Do not commit or redistribute the downloaded
+references/ folder.
+
+Shopify, Polaris, and App Bridge are trademarks of Shopify Inc. This project is
+unofficial and is not affiliated with, sponsored by, or endorsed by Shopify.
